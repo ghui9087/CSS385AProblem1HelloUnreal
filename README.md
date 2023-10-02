@@ -2,6 +2,7 @@ Hello World for Unreal Engine
 
 Created By Houming Ge
 
+THIS GITHUB IS ONLY THE VIDEO AND PICTURE THE SOURCE CODE IS ON CANVAS
 The main tutorial URL is:
 ```
 https://dev.epicgames.com/community/learning/courses/ZpX/your-first-hour-in-unreal-engine-5-0/RPwK/your-first-hour-in-unreal-engine-5-0-overview
